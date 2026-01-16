@@ -2,7 +2,7 @@
 param
 (
     [string]$Mac,
-	[string]$Destination = "192.168.0.11",
+	[string]$Destination = "192.168.88.255",
     [int]$Port = 9
 )
 function Send-MagicPacket {
