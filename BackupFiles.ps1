@@ -72,6 +72,7 @@ if ($whatIf) {
         "/COMPRESS",
         "/M",
         "/V",
+        "/NDL",
         "/TEE"
     )
 }
